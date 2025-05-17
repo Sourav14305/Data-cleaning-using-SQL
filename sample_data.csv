@@ -1,0 +1,8 @@
+CustomerID,Name,Email,Phone,JoinDate
+101.0,Alice,alice@example.com,1234567890,2023-01-10
+102.0,Bob,bob@example,2345678901,2023-02-15
+103.0,Charlie,charlie@example.com,3456789012,2023-03-20
+104.0,David,,4567890123,InvalidDate
+104.0,David,david@example.com,4567890123,2023-04-25
+,Eve,eve@example.com,,2023-05-30
+106.0,Frank,frank@example.com,5678901234,2023-06-05
